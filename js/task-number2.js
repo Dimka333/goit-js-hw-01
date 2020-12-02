@@ -1,3 +1,5 @@
+"use strict";
+
 const total = 100;
 const ordered = 50;
 const messageError = 'На складе недостаточно твоаров!'
